@@ -33,7 +33,7 @@ qbert-nav
 ├── webpack.config.js
 └── README.md
 ```
-
+<img src="Demo.png" alt="Isometric cube" width="200">
 ## Installation
 
 1. Clone the repository:
